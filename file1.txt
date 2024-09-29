@@ -4,3 +4,4 @@ file one is modified
 file one is modified second time
 
 now for git diff section
+add to stated area
