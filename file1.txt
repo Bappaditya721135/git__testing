@@ -5,3 +5,4 @@ file one is modified second time
 
 now for git diff section
 add to stated area
+add more to stash area
