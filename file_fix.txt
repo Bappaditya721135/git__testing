@@ -1,3 +1,8 @@
 i am file fix
+<<<<<<< HEAD
 main second line 
 main third line
+=======
+bug fix second line 
+bug fix third line
+>>>>>>> 9c58fda (add second & third line)
