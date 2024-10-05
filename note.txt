@@ -1,0 +1,9 @@
+when we generate a ssh key. It generates in pair a private key and a public key.
+
+the private key is stored in your local machine and not ment to be shared.
+
+In other case the public key is shared to to sever.
+Why do need that you ask?
+well public key is used to encrypt some data that can only decrypte by the private key. So when you try to connect to a server like github.com from your local machine the server 
+sends a encrypt data to the local machine then the ssh client(a program that utilized private key for authentication) decrypte the data using private key if it was successfull
+then it tells the server that you have the private key.
